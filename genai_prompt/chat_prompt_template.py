@@ -1,0 +1,14 @@
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
+
+chat_template = ChatPromptTemplate([
+    ('system',"you are a helpful {Domain} expert"),
+    ('human',"Explain the simple , what is {topic}")
+])
+
+prompt = chat_template.invoke({
+    "Domain":"AI",
+    "topic":"machine learning"
+})
+
+print(prompt)
