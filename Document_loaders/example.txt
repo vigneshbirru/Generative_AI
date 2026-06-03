@@ -1,0 +1,12 @@
+The Seven Powers — YC Edition (with Modern AI Examples)
+YC used Hamilton Helmer’s book Seven Powers as the framework but reinterpreted it for today’s AI startups. Here’s my translated, plain-English version — with real companies that illustrate each moat.
+
+1. Process Power — Mastering Complexity
+This is when your product is so operationally or technically complex that it’s incredibly hard to copy.
+
+YC cited CaseText, which built legal AI that lawyers could actually trust — not just a demo that sounds smart. It took years of refining the product to work reliably with real legal data and use cases.
+
+Another example is Plaid, whose system connects to thousands of financial institutions. Anyone can build a prototype, but replicating Plaid’s depth and reliability would take a decade.
+
+In AI, “process power” often looks like the unsexy engineering work — building thousands of edge cases, automation pipelines, and safety checks that no one sees but everyone depends on.
+ 
