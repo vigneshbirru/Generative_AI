@@ -11,4 +11,4 @@ prompt = chat_template.invoke({
     "topic":"machine learning"
 })
 
-print(prompt)
+print(prompt)   
